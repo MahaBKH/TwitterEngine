@@ -20,6 +20,9 @@ We faced challenges when creating our tests an realized that our IntelliJ did no
 **Sources**
 
 -Source on Tokenizer: https://crunchify.com/java-stringtokenizer-and-string-split-example/
+
 -Source on Unique Values: https://stackoverflow.com/questions/13429119/get-unique-values-from-arraylist-in-java
+
 -Source on JUnit Testing: http://www.vogella.com/tutorials/JUnit/article.html
+
 -Source on Testing Size: https://users.ece.utexas.edu/~miryung/teaching/EE461L-Spring2012/labs/testing.html
